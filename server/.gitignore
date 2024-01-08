@@ -1,0 +1,5 @@
+node_modules
+certs
+backup.txt
+.env
+test.js
